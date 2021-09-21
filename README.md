@@ -16,7 +16,7 @@ To use this model, follow the steps below:
 1.Download "yolov4-custom_best.weight" file in this drive(https://drive.google.com/drive/u/1/folders/1yqYuwfXCdLMhQDoRSn6yHAYVS6cgdeSy), 
 and add it to "Robot_V3" folder.
 
-2.Run "Robot_V3.py", adjust the corresponding path. 
+2.Run "foot_recognize_model.py", adjust the corresponding path. 
 
 3.Asure that your camara is available, then you can start using it!
 (P.S. We're not proffesional in computer, so we cannot promise whether the code is compatible in every personal devices.)
