@@ -15,7 +15,7 @@ with open('MyObject.names','r') as f:
     classes = f.read().splitlines()
 # print(classes)
 count=0
-
+123
 
 def GIF():
 #    url = "https://media.giphy.com/media/kiOGNdQMj04SI/giphy.gif"
